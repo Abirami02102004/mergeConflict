@@ -1,1 +1,1 @@
-I created another file "test.tst" in new repository "mergeConflict" to learn about merge conflicts
+I created another file "test.tst" in new repository "mergeConflict" 
